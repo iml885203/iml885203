@@ -2,9 +2,10 @@
 
 <a href="https://www.linkedin.com/in/logan-tw/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
-🌱 I’m a Back-end developer <br>
+🌱 I’m a Full-stack developer <br>
 🏠 I'm passionate about [Smart Home](https://blog.dotw.me/2022/rent-smart-home/) <br>
-👨‍💻 Currently enjoying learning new things about Web Dev
+🌐 Always looking to learn more about Web Dev.
+👨‍💻 Technology keeps me curious and motivated.
 
 
 ### 🛠 &nbsp;Tech Stack
