@@ -4,7 +4,7 @@
 <br>
 🌱 I’m a Full-stack developer <br>
 🏠 I'm passionate about [Smart Home](https://blog.dotw.me/2022/rent-smart-home/) <br>
-🌐 Always looking to learn more about Web Dev.
+🌐 Always looking to learn more about Web Dev.<br>
 👨‍💻 Technology keeps me curious and motivated.
 
 
