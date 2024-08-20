@@ -9,7 +9,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
+![C#](https://custom-icon-badges.demolab.com/badge/-C%23-05122A?logo=cshrp&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
