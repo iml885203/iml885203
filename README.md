@@ -2,10 +2,10 @@
 
 <a href="https://www.linkedin.com/in/logan-tw/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
-🌱 I’m a Full-stack developer <br>
-🏠 I'm passionate about [Smart Home](https://blog.dotw.me/2022/rent-smart-home/) <br>
-🌐 Always looking to learn more about Web Dev.<br>
-👨‍💻 Technology keeps me curious and motivated.
+🛠️ Building things that make everyday life and software development a little easier.<br>
+🏠 Into smart homes, homelabs, and automation.<br>
+🤖 Exploring AI agents and developer tooling.<br>
+🌐 [About me](https://about.dotw.me) · [Blog](https://blog.dotw.me)
 
 
 ### 🛠 &nbsp;Tech Stack
