@@ -11,6 +11,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/iml885203/"><img src="https://github-readme-stats-7bo66y98g-iml885203s-projects.vercel.app/api?username=iml885203&show_icons=true&theme=gotham" alt="logan" />
+  <a href="https://github.com/iml885203/"><img src="https://github-readme-stats-phi-gray-57.vercel.app/api?username=iml885203&show_icons=true&theme=gotham" alt="logan" />
   </a>
 </p>
