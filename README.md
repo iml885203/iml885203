@@ -5,7 +5,7 @@
 🛠️ Making everyday life and software development a little easier.<br>
 🏠 Into smart homes, homelabs, and automation.<br>
 🤖 Exploring AI agents and developer tooling.<br>
-🌐 [About me](https://about.dotw.me) · [Blog](https://blog.dotw.me)
+🌐 [About me](https://ilogan.app) · [Blog](https://blog.ilogan.app)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
